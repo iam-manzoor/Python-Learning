@@ -20,7 +20,11 @@
    - **Portable:** The code written on windows can be run on anyother OS platform provided with necessary lib.
   
 3. **Writting the First line of code in python:** `print("Hello World!!!")`
-  
+   - **print:** It's an in-built python function. It's function is to print the statement given inside the paraenthesis to the STD output. 
 
-  
-
+4. **Python Character Set:**
+   - Letters - `A-Z, a - z`
+   - Digits - `0 - 9`
+   - Special Symbols - `+ - * / etc..`
+   - Whitespaces - Blank Space, tab, carriage return, newline, formfeed.
+   - Other characters - ASCII and Unicode characters.
