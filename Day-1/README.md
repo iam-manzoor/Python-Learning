@@ -3,13 +3,22 @@
 ## Day-1 Introduction to python
 
 1. **What is Programming?**
-- Programming is the way we communicate with computer, and ask them to perform tasks.
-- We have multiple programming languages to communicate with computer.
-  1. **Java**
-  2. **Python**
-  3. **C**
-  4. **C++**
-  5. **React** and many more
-- We write the code in python language and the system uses translator (**Compiler/Interpreter**) to convert them into machine readale form(**o's and 1's**).
+  - Programming is the way we communicate with computer, and ask them to perform tasks.
+  - We have multiple programming languages to communicate with computer.
+    1. **Java**
+    2. **Python**
+    3. **C**
+    4. **C++**
+    5. **React** and many more
+  - We write the code in python language and the system uses translator (**Compiler/Interpreter**) to convert them into machine readale form(**0's and 1's**).
 
 2. **What is Python?**
+   - **Python is simple & easy:** One of the easiest language to start programing 
+   - **Free & Open Source:** Free to use 
+   - **HLL:** Python is high-level language because its syntax is clear and close to english.
+   - **Developed by Guido van Rossum:** The person who developer python.
+   - **Portable:** The code written on windows can be run on anyother OS platform provided with necessary lib.
+  
+
+  
+
