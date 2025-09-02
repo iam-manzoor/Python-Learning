@@ -38,9 +38,9 @@
      - `age = 09`         Left hand-side is variable name and the right hand-side is variable value
    - variable name it picks up a random location in memory and store the value in the memory. Variable name is an address to the memory location to access the value.
    - Access the variable `print(name)` `print(age)`
-   - Value of one variable cab be assigned it to the other variables with the help of Assignment operator `=`
+   - Value of one variable cab be assigned it to the other variables with the help of Assignment operator `=`. Whatever the value of **a** will become value of **b**.
      ```
      a = 25
      b = a
-     print(a, b) # Whatever the value of **a** will become value of **b**.
+     print(a, b)
      ```
