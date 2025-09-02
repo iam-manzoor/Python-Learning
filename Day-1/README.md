@@ -10,17 +10,17 @@
     3. **C**
     4. **C++**
     5. **React** and many more
-  - We write the code in python language and the system uses translator (**Compiler/Interpreter**) to convert them into machine readale form(**0's and 1's**).
+  - We write the code in python language and the system uses translator (**Compiler/Interpreter**) to convert them into machine readable form(**0's and 1's**).
 
 2. **What is Python?**
    - **Python is simple & easy:** One of the easiest language to start programing 
    - **Free & Open Source:** Free to use 
    - **HLL:** Python is high-level language because its syntax is clear and close to english.
-   - **Developed by Guido van Rossum:** The person who developer python.
-   - **Portable:** The code written on windows can be run on anyother OS platform provided with necessary lib.
+   - **Developed by Guido van Rossum:** The person who developed python.
+   - **Portable:** The code written on windows can be run on any other OS platform provided with necessary libraries.
   
-3. **Writting the First line of code in python:** `print("Hello World!!!")`
-   - **print:** It's an in-built python function. It's function is to print the statement given inside the paraenthesis to the STD output.
+3. **Writing the First line of code in python:** `print("Hello World!!!")`
+   - **print:** It's an in-built python function. It's function is to print the statement given inside the parenthesis to the stdout.
      - We can also perform operation using **print** function `print(41+31) O/P = 72`, `print(2*3) O/P = 6`. We can perform other operation as well.
 
 4. **Python Character Set**
@@ -32,13 +32,13 @@
   
 5. **Variables**
    - A variable is a name given to a memory location in a program.
-   - Variables means a value that can be changed/over-written.
+   - Variables means a value that can be changed/overwritten.
    - Below are few example of Variables
      - `name = "Arhan"` Left hand-side is variable name and the right hand-side is variable value
      - `age = 09`         Left hand-side is variable name and the right hand-side is variable value
    - variable name it picks up a random location in memory and store the value in the memory. Variable name is an address to the memory location to access the value.
    - Access the variable `print(name)` `print(age)`
-   - Value of one variable cab be assigned it to the other variables with the help of Assignment operator `=`. Whatever the value of **a** will become value of **b**.
+   - Value of one variable can be assigned it to the other variables with the help of Assignment operator `=`. Whatever the value of **a** will become value of **b**.
      ```
      a = 25
      b = a
@@ -48,5 +48,5 @@
    - Identifiers/Variables (Will discuss about the naming convention).
    - Variable name can be combination of uppercase and lowercase letters, digits or an underscore(_). `myName, phone_1, list_of_phones` all are valid python identifiers.
    - Variable can not start with digit `phone1` is valid, but `1phone` is not valid.
-   - special symbole like `!,@,#,$,%` etc.. can be used in variables.
+   - special symbols like `!,@,#,$,%` etc.. can be used in variables.
    - identifiers can be of any length.
