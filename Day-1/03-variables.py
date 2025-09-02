@@ -1,9 +1,9 @@
 # String should be enclosed within double quote. It can be single word or multiple words or sentence.
-name = "Manzoor"
+name = "Arhan"
 occupation = "DevOps" 
 
 # Intiger defined without any quote
-age = 31
+age = 10
 
 # Float
 price = 41.99
@@ -19,3 +19,8 @@ print(price)
 # Print text and the variable to the console
 print("My name is : ", name)
 print("My occupation is  : ", occupation)
+
+# Assignment Operator (=) example
+age2 = age
+
+print(age2) #prints  10 
