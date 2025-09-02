@@ -45,9 +45,25 @@
      b = a
      print(a, b)
      ```
+    - Python is case sensitive, which means the variable name `a` is deifferent from `A`. They are two different variables in Python.
 6. **Rules for Identifiers**
    - Identifiers/Variables (Will discuss the naming convention).
    - Variable name can be combination of uppercase and lowercase letters, digits or an underscore(_). `myName, phone_1, list_of_phones` all are valid python identifiers.
    - Variable can not start with digit `phone1` is valid, but `1phone` is not valid.
    - special symbols like `!,@,#,$,%` etc.. can not be used in variables.
    - Identifiers can be of any length.
+  
+7. **Data Types**
+   - **integers:** Any positive integer OR negative integer OR Zero
+   - **Strings:** Single word OR more than a one word. We can define string in one fo the below format.
+   ```
+   name = "Arhan"
+   name2 = 'Arhan'
+   name3 = '''Arhan'''
+   ```
+   - **Float:** Decimal values. Example `3.99, 4.0, 5.999`
+   - **boolean:** `True OR False` Capital T for True and F for False
+   - **None:** Define the variable with no value
+  
+8. **Keywords:**
+   - Keywords are reserved words in Python. (search for reserved words in python and will get the list of words.)
