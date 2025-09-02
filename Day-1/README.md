@@ -20,7 +20,8 @@
    - **Portable:** The code written on windows can be run on anyother OS platform provided with necessary lib.
   
 3. **Writting the First line of code in python:** `print("Hello World!!!")`
-   - **print:** It's an in-built python function. It's function is to print the statement given inside the paraenthesis to the STD output. 
+   - **print:** It's an in-built python function. It's function is to print the statement given inside the paraenthesis to the STD output.
+     - We can also perform operation using **print** function `print(41+31) O/P = 72`, `print(2*3) O/P = 6` 
 
 4. **Python Character Set:**
    - Letters - `A-Z, a - z`
