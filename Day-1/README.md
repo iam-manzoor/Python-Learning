@@ -74,3 +74,9 @@
       Comment
       """
       ```
+10. **Types of Operators**
+    - An operator is a symbol that performs a certain operation between operands
+      - Arithmetic Operators `+`, `-`, `*`, `/`, `%`, `**`
+      - Relational / Comparision Operators `==`, `!=`, `>`, `<`, `>=`, `<=`
+      - Assignment Operators `=`, `+=`, `-=`, `*=`, `/=`, `%=`, `**=`
+      - Logical Operators `not`, `and`, `or`
