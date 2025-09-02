@@ -46,7 +46,7 @@
      ```
 6. **Rules for Identifiers**
    - Identifiers/Variables (Will discuss about the naming convention).
-   - Variable name can be combination of uppercase and lowercase letters, digits or an underscore(_). myName, phone_1, list_of_phones all are valid python identifiers.
-   - Variable can not start with digit phone1 is valid, but 1phone is not valid.
-   - special symbole like !,@,#,$,% etc.. can be used in variables.
+   - Variable name can be combination of uppercase and lowercase letters, digits or an underscore(_). `myName, phone_1, list_of_phones` all are valid python identifiers.
+   - Variable can not start with digit `phone1` is valid, but `1phone` is not valid.
+   - special symbole like `!,@,#,$,%` etc.. can be used in variables.
    - identifiers can be of any length.
