@@ -38,4 +38,5 @@
      - `age = 09`         Left hand-side is variable name and the right hand-side is variable value
    - variable name it picks up a random location in memory and store the value in the memory. Variable name is an address to the memory location to access the value.
    - Access the variable `print(name)` `print(age)`
-   - ```a=25```
+   - ```a = 25
+        b = a ```
