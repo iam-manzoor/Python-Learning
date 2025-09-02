@@ -19,6 +19,8 @@
    - **Developed by Guido van Rossum:** The person who developer python.
    - **Portable:** The code written on windows can be run on anyother OS platform provided with necessary lib.
   
+3. **Writting the First line of code in python:** `print("Hello World!!!")`
+  
 
   
 
