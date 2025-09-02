@@ -22,6 +22,7 @@
 3. **Writing the First line of code in python:** `print("Hello World!!!")`
    - **print:** It's an in-built python function. Its function is to print the statement given inside the parenthesis to the stdout.
      - We can also perform operation using **print** function `print(41+31) O/P = 72`, `print(2*3) O/P = 6`. We can perform other operation as well.
+     - **print** function has the ability to print the data type of variable. Example `print(type(name))` Refer 02-print.py.
 
 4. **Python Character Set**
    - Letters - `A-Z, a - z`
@@ -33,9 +34,9 @@
 5. **Variables**
    - A variable is a name given to a memory location in a program.
    - Variables means a value that can be changed/overwritten.
-   - Below are a few example of Variables
+   - Below are a few examples of Variables
      - `name = "Arhan"` Left-hand side is variable name and the Right-hand side is variable value
-     - `age = 09`         Left-hand side is variable name and the Right-hand side is variable value
+     - `age = 10`         Left-hand side is variable name and the Right-hand side is variable value
    - variable name it picks up a random location in memory and store the value in the memory. Variable name is an address to the memory location to access the value.
    - Access the variable `print(name)` `print(age)`
    - Value of one variable can be assigned to the other variables with the help of Assignment operator `=`. Whatever the value of **a** will become value of **b**.
