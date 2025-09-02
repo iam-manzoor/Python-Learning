@@ -1,5 +1,3 @@
-# Python Zero to Hero Programming.
-
 ## Day-1 Introduction to python
 
 1. **What is Programming?**
@@ -65,5 +63,14 @@
    - **boolean:** `True OR False` Capital T for True and F for False
    - **None:** Define the variable with no value
   
-8. **Keywords:**
+8. **Keywords**
    - Keywords are reserved words in Python. (search for reserved words in python and will get the list of words.)
+
+9. **Comments in Python**
+    - `#` Single line Comment
+    - ```
+      """
+      Multi Line
+      Comment
+      """
+      ```
