@@ -5,5 +5,5 @@ Intiger will be converted to float automatically
 a = 10
 b = 5.25
 
-sum = a + b  # 10.0 + 5.25
+sum = a + b  # 10.0 + 5.25 the var a will automaticlly converted into int data type
 print(sum)   # 15.25
