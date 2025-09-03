@@ -16,3 +16,4 @@
      - concatenation
      - Length of string
      - Indexing in string. The string characters in Python is indexed.
+       - string assignment is not allowed. Example `myCollage[4]="@"`
