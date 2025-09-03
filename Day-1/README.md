@@ -80,3 +80,23 @@
       - Relational / Comparision Operators `==` `!=` `>` `<` `>=` `<=`
       - Assignment Operators `=` `+=` `-=` `*=` `/=` `%=` `**=`
       - Logical Operators `not` `and` `or`
+     
+11. **Type Conversion**
+    - Converting one data type into another data type. Type conversion is automatic.
+    - ```
+      a = 10
+      b = 5.25
+      sum = a + b # 10.0 + 5.25 a var will be automatically converted to float. As float is superrior to int.
+      ```
+
+12. **Type Casting**
+    - Same as type conversion. But this is implicit (Manual)
+    - Type casting will work only if the data can fit into the new data type.
+    - ```
+      a = "10"            # Python treats it as string when inside the double quote.
+      b = 5.25
+      sum = a + b         # This will fail because we cannot perform operation on string and float.
+      a = int(a)
+      sum = a + b         # Now it will work same as type conversion.
+      c = float("Arhan")  # Type casting wont work as this is character data.
+      ```
