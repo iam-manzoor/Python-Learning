@@ -100,3 +100,9 @@
       sum = a + b         # Now it will work same as type conversion.
       c = float("Arhan")  # Type casting wont work as this is character data.
       ```
+
+13. **Input in Python**
+    - input() statement is used to accept values from user
+      - input()        - Result is string
+      - int(input())   - Result is int
+      - float(input()) - Result is float
