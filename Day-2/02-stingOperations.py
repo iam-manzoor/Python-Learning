@@ -16,3 +16,12 @@ print(len1)
 len2 = len(fullName)
 print(len2)           # Print the count of total characters in the string including spaces, special character etc..
 #====================
+
+# String Indexing
+myCollage = "Bharathiar_University"
+print(myCollage[0])  # Prints B
+print(myCollage[2])  # prints a 
+
+ch = myCollage[3]
+print(ch)       # Prints r
+
