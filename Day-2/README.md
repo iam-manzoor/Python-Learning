@@ -14,4 +14,5 @@
    ```
    - **Basic Operations**
      - concatenation
-     - Length of str
+     - Length of string
+     - Indexing in string. The string characters in Python is indexed.
