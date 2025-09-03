@@ -12,3 +12,6 @@
    string5 = "This is string.\nWe started learning Python"
    print(string5)
    ```
+   - **Basic Operations**
+     - concatenation
+     - Length of str
