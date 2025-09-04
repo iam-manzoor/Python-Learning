@@ -18,10 +18,37 @@ print(len2)           # Print the count of total characters in the string includ
 #====================
 
 # String Indexing
-myCollage = "Bharathiar_University"
-print(myCollage[0])  # Prints B
-print(myCollage[2])  # prints a 
+myCollege = "Bharathiar_University"
+print(myCollege[0])  # Prints B
+print(myCollege[2])  # prints a 
 
-ch = myCollage[3]
+ch = myCollege[3]
 print(ch)       # Prints r
+
+#=======================
+
+# String Slicing. Accessing the part of the string. Left to Right
+
+myCollege = "Bharathiar_University"
+
+print(myCollege[0:5])  # Prints Bhara
+print(myCollege[1:5])  # Prints hara
+print(myCollege[1:len(myCollege)])  # Prints harathiar_University
+print(myCollege[1:])  # Prints harathiar_University. Translates into myCollege[1:len(myCollege)]
+print(myCollege[:5]) # Prints Bhara. Translates into myCollege[0:5]
+
+# Negative Index. From right to left of the string characters  -5 -4 -3 -2 -1
+fruit = "Apple"
+
+print(fruit[-3:-1])  # Print pl
+print(fruit[-3:len(fruit)]) # Print ple
+print(fruit[-len(fruit):])  # print the entire string
+
+#===========================
+
+
+
+
+
+
 
