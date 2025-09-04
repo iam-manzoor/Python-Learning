@@ -29,3 +29,8 @@
        - `str.replace(old, new)` Replace the word old with new.
        - `str.find(word)` Return the index of that word.
        - `str.count("am")` Count the occurance of the substring.
+      
+
+2. **Conditional Statements**
+   - Checks for the statement and then statement gets executed.
+   - if-elif-else
