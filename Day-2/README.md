@@ -16,4 +16,7 @@
      - concatenation
      - Length of string
      - Indexing in string. The string characters in Python is indexed.
-       - string assignment is not allowed. Example `myCollage[4]="@"`
+       - string object doesnt allow item assignment. Example `myCollege[4]="@"`
+       - Index helps us to access the characters cant modify
+     - Slicing
+       - Accessing parts of a string. Example `myCollege[starting_idx:ending_idx]` ending_idx will not be printed.
