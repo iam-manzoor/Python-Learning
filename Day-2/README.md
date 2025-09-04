@@ -34,3 +34,4 @@
 2. **Conditional Statements**
    - Checks for the statement and then statement gets executed.
    - if-elif-else
+   - We have nesting conditional statement as well.
