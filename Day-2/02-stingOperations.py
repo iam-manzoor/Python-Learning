@@ -46,6 +46,14 @@ print(fruit[-len(fruit):])  # print the entire string
 
 #===========================
 
+str1 = "I am Manzoor"
+str2 = "i am Male"
+
+print(str1.endswith("or"))  # Prints True
+print(str2.capitalize())    # print I am male Capitalize the firat letter of the string.
+
+
+
 
 
 
