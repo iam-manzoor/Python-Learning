@@ -18,3 +18,4 @@
       - `pop` works on the index. `remove` works on the value.
     - To list the methods supported by List. execute `print(dir(list))`
     - When you print method operations it will return `None`. You have to print list variable.
+    - `sort` methos also sorts the strins in the list.
