@@ -17,3 +17,4 @@
     - Diff between `pop` and `remove` method?
       - `pop` works on the index. `remove` works on the value.
     - To list the methods supported by List. execute `print(dir(list))`
+    - When you print method operations it will return `None`. You have to print list variable.
