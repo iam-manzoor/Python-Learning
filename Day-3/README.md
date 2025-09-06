@@ -14,3 +14,6 @@
   - **List Methods**
     - Below are the few methods from List.
     - `append` `sort` `reverse` `insert` Refer 03-listMethods.py script
+    - Diff between `pop` and `remove` method?
+      - `pop` works on the index. `remove` works on the value.
+    - To list the methods supported by List. execute `print(dir(list))`
