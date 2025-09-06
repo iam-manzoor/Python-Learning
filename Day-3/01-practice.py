@@ -15,3 +15,12 @@ print(My favorite movies are : ", favoriteMovie)
 
 favoritMovies = input("Enter the movie names with comma seperated :").split(',') # movie1.movie2,movie3
 print(favoriteMovies)
+
+# Method-3
+
+movies = []
+movies.append(input("Enter 1st movie : "))
+movies.append(input("Enter 2nd movie : "))
+movies.append(input("Enter 3rd movie : "))
+
+print(movies)
