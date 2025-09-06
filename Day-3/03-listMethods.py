@@ -10,6 +10,7 @@ marks.insert(3,75)           # Insert the element 75 in the third index of the l
 marks.pop()                  # Removes the last element from the list.
 marks.pop(2)                 # Removes the element which is in index 2
 marks.count(42)              # Prints the count of the given element in the list.
+marks.clear()                # Empty the list.
 
 # Methods supported by Python list
 print(dir(list))
