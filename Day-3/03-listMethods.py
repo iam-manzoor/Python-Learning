@@ -23,3 +23,14 @@ print(marks)
 
 # Methods supported by Python list
 print(dir(list))
+
+# String sorting
+fruit=["banana", "mango", "apple"])
+fruit.sort()
+print(fruit)                 # Prints ["apple","banana","mango"]
+
+# Reverse string Sorting
+fruit=["banana", "mango", "apple"])
+fruit.sort(reverse=True)
+print(fruit)                 # Prints ["mango","banana","apple"]
+
