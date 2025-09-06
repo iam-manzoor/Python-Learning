@@ -25,4 +25,4 @@
    - `tup = (1,)` Defining a single value tuple. If we dont add comma it will be considered as string.
    - Example tuple `tup = (1,2,3,4)`
    - Slicing works as list.
-   - tuple also supports mehtods.
+   - tuple also supports only two methods `count` and `index`
