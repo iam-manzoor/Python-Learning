@@ -19,3 +19,10 @@
     - To list the methods supported by List. execute `print(dir(list))`
     - When you print method operations it will return `None`. You have to print list variable.
     - `sort` methos also sorts the strins in the list.
+
+2. **Tuples in Python**
+   - A built-in data type that lets us create immutable sequence of values.
+   - `tup = (1,)` Defining a single value tuple. If we dont add comma it will be considered as string.
+   - Example tuple `tup = (1,2,3,4)`
+   - Slicing works as list.
+   - tuple also supports mehtods.
