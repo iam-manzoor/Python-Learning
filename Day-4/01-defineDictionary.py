@@ -24,3 +24,11 @@ print(details)
 # Adding values to the empty dict
 details["name"] = "Arjun"
 details["Age"]  = 12
+
+# Nested Dict
+student = {"name" : "stu1", "Scores":{"English":95,"Physics":96,"Maths":100}}
+
+print(student)
+print(student["Scores"]["English"])
+student[["Scores"]["Chemistry"] = 94
+print(student)
