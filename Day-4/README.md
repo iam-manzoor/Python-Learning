@@ -2,7 +2,7 @@
 
 1. **Dictionary in Python**
    - Dictionaries are used to store data values in `key:value` pairs
-   - They are unordered, mutable and dont allow duplicate keys.
+   - They are unordered(There is no index concept), mutable and dont allow duplicate keys.
    - Dict stores all types data in Python.
    - If key is string always enclose the key in double quote. Key can aslo be an intiger, or Float, or boolean.
    - Example dict
