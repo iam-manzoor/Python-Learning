@@ -14,4 +14,4 @@
        12 : "Intiger"
      }
      ```
-   - Refer `01-defineDictionary.py` script for examples.
+   - Refer `01-defineDictionary.py` script for examples..
