@@ -12,3 +12,4 @@
        "marks" = [95.96.99],
      }
      ```
+   - Refer `01-dictionary.py` script for examples.
