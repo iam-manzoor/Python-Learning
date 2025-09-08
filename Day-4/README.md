@@ -14,4 +14,9 @@
        12 : "Intiger"
      }
      ```
-   - Refer `01-defineDictionary.py` script for examples..
+   - Refer `01-defineDictionary.py` script for examples.
+  
+   - **Dictionary Methods**
+     - Dictionary also supports methods simillar to the List, tupple and string.
+     - Below are the few methods supported by Dictionary.
+     - `myDict.keys()` `myDict.values()` `myDict.items()` `myDict.get("key)` `myDict.update(newDict)`
