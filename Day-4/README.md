@@ -20,3 +20,10 @@
      - Dictionary also supports methods simillar to the List, tupple and string.
      - Below are the few methods supported by Dictionary.
      - `myDict.keys()` `myDict.values()` `myDict.items()` `myDict.get("key)` `myDict.update(newDict)`
+    
+2. **Sets in Python**
+   - Set is the collection of the unordered items.
+   - Each element in the set must be unique & immutable.
+   - Example: `nums = {1,2,3,4}`
+   - Repeated elements stored only once. Example `set2 = {1,2,2,2}` `set2 = {1,2}`
+   - Empty Set `null_set = set()`
