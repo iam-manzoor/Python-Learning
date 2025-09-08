@@ -23,7 +23,7 @@
     
 2. **Sets in Python**
    - Set is the collection of the unordered items.
-   - Each element in the set must be unique & immutable.
+   - Each element in the set must be unique & immutable. We can add new element but we cant modify the existing element.
    - Example: `nums = {1,2,3,4}`
    - Repeated elements stored only once. Example `set2 = {1,2,2,2}` `set2 = {1,2}`
    - Empty Set `null_set = set()`
@@ -31,4 +31,4 @@
   
    - **Set Methids**
    - `set.add(el)` `set.remove(el)` `set.clear()` `set.pop()` are few methods.
-   - To list all th methods supported by set execute `print(dir(set))`
+   - To list all the methods supported by set execute `print(dir(set))`
