@@ -28,4 +28,7 @@
    - Repeated elements stored only once. Example `set2 = {1,2,2,2}` `set2 = {1,2}`
    - Empty Set `null_set = set()`
    - In set we can only store `boolean` `int` `string` `tuple` `float`. `List` & `dict` not allowed because they are muttable.
-   - 
+  
+   - **Set Methids**
+   - `set.add(el)` `set.remove(el)` `set.clear()` `set.pop()` are few methods.
+   - To list all th methods supported by set execute `print(dir(set))`
