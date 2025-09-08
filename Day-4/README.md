@@ -27,3 +27,5 @@
    - Example: `nums = {1,2,3,4}`
    - Repeated elements stored only once. Example `set2 = {1,2,2,2}` `set2 = {1,2}`
    - Empty Set `null_set = set()`
+   - In set we can only store `boolean` `int` `string` `tuple` `float`. `List` & `dict` not allowed because they are muttable.
+   - 
