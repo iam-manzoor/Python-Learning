@@ -29,4 +29,4 @@ info.update({"city":"Chennai"})
 print(info)
 
 # List the Dict methods
-print
+print(dir(dict))
