@@ -8,3 +8,6 @@
 8. Print nubmers from 1 to 100 using range().
 9. print numbers from 100 to 1 using range()
 10. Print multiplication table of a number n.
+11. WAP to find the sum of first n numbers. (using while)
+12. WAP to find the factorial of first n numbers (using for)
+    
