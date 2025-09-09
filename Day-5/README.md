@@ -8,3 +8,6 @@
        while condition:
          statements
        ```
+   - **Break & Continue**
+     - `break` used to terminate the loop when encountered.
+     - `continue` terminates execution in the current iteration & continues exection of the loop with next iteration.
