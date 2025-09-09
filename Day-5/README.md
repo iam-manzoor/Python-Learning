@@ -1,6 +1,6 @@
 ## Day 5 Pthon Loops
 
-1. **Loops in Python**
+1. **while Loop in Python**
    - Loops are used to repeat instructions.
    - `while` Loops
      - ```
