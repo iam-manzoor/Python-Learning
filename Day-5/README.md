@@ -14,7 +14,8 @@
 
 2. **for Loop in Python**
    - Used for sequential traversal. For traversing list, string, tuples etc.
-   - Example ```
+   - Example
+     ```
      list = [1,2,3]
 
      for el in list:
