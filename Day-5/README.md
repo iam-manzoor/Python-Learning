@@ -16,8 +16,8 @@
    - Used for sequential traversal. For traversing list, string, tuples etc.
    - Example
      ```
-     list = [1,2,3]
+     lst = [1,2,3]
 
-     for el in list:
+     for el in lst:
         print(el)
      ```
