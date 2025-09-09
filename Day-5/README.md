@@ -36,3 +36,9 @@
    for el in range(1,5,2):
       print(el)
    ```
+4. **paas Statement**
+   - Is a null statement that does nothing. It used as placeholder for future code.
+   ```
+   for el in range(10):
+     paas
+   ```
