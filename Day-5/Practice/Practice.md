@@ -5,3 +5,6 @@
 5. Search for a number x in this tuple using loop. example [1,4,9,16,25,36,49,64,81,100]
 6. Print the elements of the following list using for loop.[1,4,9,16,25,36,49,64,81,100]
 7. Search for a number x in this tuple using foor loop. [1,4,9,16,25,36,49,64,81,100]
+8. Print nubmers from 1 to 100 using range().
+9. print numbers from 100 to 1 using range()
+10. Print multiplication table of a number n.
