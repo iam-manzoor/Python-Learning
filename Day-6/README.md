@@ -13,4 +13,9 @@
    func_name(2,4)                     # func_name() is fun call. (2,4) fun arguments
    ```
    - **Types in function**
-   - Built-in-functions: `print` `len` `range` etc.. Are part of ptyhon ships default.
+   - Built-in-functions: `print` `len` `range` `type` etc.. Are part of ptyhon ships default.
+   - User defined function. Written by the developers which are not available by default.
+
+   - **Default Parameters**
+   - Assigning a default value to parameter, which is used when no argument is passed.
+   - Non default argument declared first. Default at the end in the parameter.
