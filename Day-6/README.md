@@ -19,3 +19,5 @@
    - **Default Parameters**
    - Assigning a default value to parameter, which is used when no argument is passed.
    - Non default argument declared first. Default at the end in the parameter.
+   - Arguments overwrite the default parameters declared in the function.
+   - If the parameter has default value declare it at the end of the parameter list in the fun definition.
