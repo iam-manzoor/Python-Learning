@@ -1,4 +1,4 @@
-# Multiplication using for loop
+# Factorial using "for" loop  (5x4x3x2x1)
 
 n = 5
 mul = 1
