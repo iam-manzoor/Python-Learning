@@ -21,3 +21,17 @@
    - Non default argument declared first. Default at the end in the parameter.
    - Arguments overwrite the default parameters declared in the function.
    - If the parameter has default value declare it at the end of the parameter list in the fun definition.
+
+2. **Recursion in Python**
+   - When a function calls itself repeatedly.
+   - Its a loop in function.
+   - Every recursive call creates a call stack in memory.
+   - Example
+   ```
+   def rev_num(n):
+      if n == 0:
+         return
+      print(n)
+      rev_num(n-1)
+   rev_num(6)
+   ```
