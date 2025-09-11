@@ -13,3 +13,19 @@
    - **Open, read & close File**
      - we have to open a fiel before reading or writing.
      - `f = open("fine_name","mode")` `r` read mode `w` write mode
+
+   - **Different modes**
+     - `r` Open for reading (default).
+     - `w` Open from writing, truncating the file first. (Delete the exisitng content).
+     - `x` Create a new file and open it for writing.
+     - `a` open for writing, appending to the end of the file if it exists.
+     - `b` binary mode.
+     - `t` text mode (default).
+     - `+` open a disk file for updating (reading and writing).
+    
+   - **Reading a file**
+     - `data = f.read()` reads entire file.
+     - `data = f.read(5)` reads the number of characters specified.
+     - `data = f.readline() reads one line at a time.
+     - Once the data is read we can not read it again. The pointer moves as we read the data. So to read again we have to open the file onde more time.
+     - 
