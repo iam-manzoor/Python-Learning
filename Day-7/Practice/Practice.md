@@ -11,3 +11,5 @@
 3. Search the word `learning` exist in a file or not.
 
 4. Find the word `learning` and the print the line number where it exist, if not found return `-1`
+
+5. From a file containing numbers seperated by comma, Print the count of even numbers.
