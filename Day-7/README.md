@@ -17,9 +17,12 @@
 
    - **Different modes**
      - `r` Open for reading (default).
+     - `r+` Reading and writing. The stream possioned at the begining of the line.
      - `w` Open from writing, truncating the file first. (Delete the exisitng content).
+     - `w+` Reading and Writing but will truncate the file.
      - `x` Create a new file and open it for writing.
      - `a` open for writing, appending to the end of the file if it exists.
+     - `a+` opens the file for reading and writing, but the stream is posioned at the end of the file.
      - `b` binary mode.
      - `t` text mode (default).
      - `+` open a disk file for updating (reading and writing).
@@ -37,3 +40,11 @@
    - **Append to a file**
      - `f = open(demo.txt","a")` open the file in append mode.
      - `f.write("This is append operation")` Adds the line to the end of the file.
+
+   - **with Syntax**
+     - `with` auto clos the file
+     ```
+     with open("demo.txt", "a") as f:
+       data = f.read()
+       print(data)
+     ```
