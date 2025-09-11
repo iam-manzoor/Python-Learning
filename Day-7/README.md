@@ -28,4 +28,12 @@
      - `data = f.read(5)` reads the number of characters specified.
      - `data = f.readline()` reads one line at a time.
      - Once the data is read we can not read it again. The pointer moves as we read the data. So to read again we have to open the file onde more time.
+
+   - **Writing to a file**
+     - `f = open("demot.txt","w")` Open the file in write mode.
+     - `f.write("This is a new line")` Overwrite the entire file.
+
+   - **Append to a file**
+     - `f = open(demo.txt","a")` open the file in append mode.
+     - `f.write("This is append operation")` Adds the line to the end of the file.
      - 
