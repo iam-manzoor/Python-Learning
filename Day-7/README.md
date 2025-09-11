@@ -48,3 +48,10 @@
        data = f.read()
        print(data)
      ```
+
+   - **Deleting a File**
+     - Using the OS module. Is a file written by another programmer that generally has a functin we can use.
+     ```
+     import os
+     os.remove(filename)
+     ```
