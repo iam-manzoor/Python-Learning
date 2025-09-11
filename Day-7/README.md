@@ -26,6 +26,6 @@
    - **Reading a file**
      - `data = f.read()` reads entire file.
      - `data = f.read(5)` reads the number of characters specified.
-     - `data = f.readline() reads one line at a time.
+     - `data = f.readline()` reads one line at a time.
      - Once the data is read we can not read it again. The pointer moves as we read the data. So to read again we have to open the file onde more time.
      - 
