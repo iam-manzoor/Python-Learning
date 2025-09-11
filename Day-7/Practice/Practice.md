@@ -9,3 +9,5 @@
 2. WAF the replace all occurance of "java" with "python" in above file.
 
 3. Search the word `learning` exist in a file or not.
+
+4. Find the word `learning` and the print the line number where it exist if not found return `-1`
