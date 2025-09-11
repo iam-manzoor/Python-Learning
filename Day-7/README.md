@@ -5,6 +5,7 @@
    - Python can be used to perform operations on a file. (read & write data)
    - Read, Write, Update, Delete and Append data within file.
    - To perform any of the above operation we need Open the file abd close it when the operation is completed.
+   - In Write and Append mode the files will be created if it doesnt exist. 
    - Types of all files
      1. Text Files : .txt, .docx, .log, .csv, .yaml, .json etc.
      2. Binary Files : .mp4, .mpv. .png, .lpeg etc..
@@ -36,4 +37,3 @@
    - **Append to a file**
      - `f = open(demo.txt","a")` open the file in append mode.
      - `f.write("This is append operation")` Adds the line to the end of the file.
-     - 
