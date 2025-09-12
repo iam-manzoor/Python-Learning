@@ -36,3 +36,7 @@
    - class attributes common to all the classes.
    - instance attribute unique to each object. And we refer it with `self.name`
    - object attribute takes precedence over the class attribute if they have the same var name.
+
+5. **Methods**
+   - Methods are functions that belong to objects. Function written inside the class is called method.
+   - Class can store data and methods. Class is a collection of data and methods. Methods are like functions.
