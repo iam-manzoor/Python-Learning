@@ -30,3 +30,8 @@
    - We can also pass multiple parameters. `def __init__(self, fullname)`.
    - The **self** parameter is a reference to the current instance of the class, and is used to access variables that belong to the class.
    - The data that is stored inside the class and objects is called **attributes**
+   - We have default constructor and parameterized constructors.
+  
+4. **Class & Instance Attributes**
+   - class attributes common to all the classes.
+   - instance attribute unique to each object. And we refer it with `self.name`
