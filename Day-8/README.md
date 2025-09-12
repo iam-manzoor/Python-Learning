@@ -29,3 +29,4 @@
    - `self` points to the object it invoked.
    - We can also pass multiple parameters. `def __init__(self, fullname)`.
    - The **self** parameter is a reference to the current instance of the class, and is used to access variables that belong to the class.
+   - The data that is stored inside the class and objects is called **attributes**
