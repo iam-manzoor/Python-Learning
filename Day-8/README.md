@@ -21,3 +21,11 @@
    print(s1.name)
    ```
 
+3. **__init__ Function**
+   - Is a Constructor. All classes have a function called __init__(), which is always executed when the object is being initiated.
+   - The function gets invoked when the object is created. `s1 = Student()` here s1 is the object.
+   - When its not defined Python automatically invoke the function
+   - This function by default takes a one paramenter called `self` `def __init__(self)`
+   - `self` points to the object it invoked.
+   - We can also pass multiple parameters. `def __init__(self, fullname)`
+
