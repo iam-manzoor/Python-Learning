@@ -66,3 +66,9 @@
    print(Car.wheels)
    ```
        
+6. **property decorator**
+   - We use `@property` decorator on any method in the class to use the method as a property.
+   - The phy values updated but the percentage doesnt change. Still showing the old percentage.
+
+7. **Polymorphism**
+   
