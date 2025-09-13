@@ -12,9 +12,9 @@
    ```
    class Account():
 
-    def __init__(self,acc_number,acc_paas):
+    def __init__(self,acc_number,acc_pass):
       self.acc_number = acc_number
-      self.acc_balance = acc_balance
+      self.__acc_balance = acc_pass
 
    cus = Account(1234,1000)
 
