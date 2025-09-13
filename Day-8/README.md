@@ -40,3 +40,21 @@
 5. **Methods**
    - Methods are functions that belong to objects. Function written inside the class is called method.
    - Class can store data and methods. Class is a collection of data and methods. Methods are like functions.
+  
+6. **Static Methods**
+   - Methods that dont use the `self` parameter are call `static method` and its a `decorator`
+   ```
+   class Student():
+     @staticmethod
+     def hello():
+       print("Hello Arhan")
+
+   Student.hello()
+   ```
+   - `Decorator` wrap another function in order to change the behaviour of the function with out modifying permanently.
+  
+7. **Abstraction**
+   - Hiding the implementation of the class and only showing the essential features to the users.
+  
+8. **Encapsulation**
+   - Wrapping data and functions into a single unit (object).
