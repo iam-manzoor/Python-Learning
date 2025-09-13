@@ -1,7 +1,9 @@
 # Inheritance Example.
 
 class car():                  # Parent class
-
+  
+  color = "Black"
+  
   @staticmethod
   def start():
     print("Car Started..")
@@ -18,4 +20,5 @@ class Toyata(car):              # Child class Inheritance to parent class
 c1 = Toyata("Fortuner")
 print(c1.name)
 
-print(c.start())                # Prints "Car Started..."
+print(c1.start())                # Prints "Car Started..."
+print(c1.color)
