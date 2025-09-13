@@ -6,3 +6,18 @@
    - Delete object property/Attribute `del s1.name`
    - Delete complete object `del s1`
      
+2. **Prinvate(like) attributes & methods**
+   - Private attribute & methods are meant to be used only within the class and are not accessible from outside the class.
+   - how to make an attribut private in python?
+   ```
+   class Account():
+
+    def __init__(self,acc_number,acc_paas):
+      self.acc_number = acc_number
+      self.acc_balance = acc_balance
+
+   cus = Account(1234,1000)
+
+   print(cus.acc_number)
+   print(cus.acc_pass)   # Will print the class Account has no attribut acc_paas
+   print(cus.__acc_pass)   # Will print the class Account has no attribut __acc_paas
