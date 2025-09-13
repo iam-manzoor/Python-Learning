@@ -37,3 +37,7 @@
 
    p1.welcome()
    ```
+
+3. **Inheritance**
+   - When one class derives properties & methods of another class is called inheritance.
+   - 
