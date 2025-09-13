@@ -19,6 +19,7 @@ class Toyata(car):              # Child class Inheritance to parent class
   def __init__(self,name,type):
     super().__init__(type)
     self.name = name
+    super().start()            # Calling start method from parent class
 
 car1 = Toyata("Fortuner","electric")
 print(car1.name)
