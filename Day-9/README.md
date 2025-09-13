@@ -21,3 +21,19 @@
    print(cus.acc_number)
    print(cus.acc_pass)   # Will print the class Account has no attribut acc_paas
    print(cus.__acc_pass)   # Will print the class Account has no attribut __acc_paas
+   ```
+   - Inside class, a method can invoke another method which is private.
+   ```
+   class Person():
+     __name = anonymous
+
+     def __hello(self):         # Private method.
+       print("Hello Person")
+
+     def welcome(self):
+       self.hello()
+
+   p1 = Person()
+
+   p1.welcome()
+   ```
