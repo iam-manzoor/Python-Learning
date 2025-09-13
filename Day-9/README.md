@@ -44,3 +44,9 @@
        - Single Inheritance.  base class -> Derived class
        - Multi-level Inheritance. base class - > derived class -> derived class
        - Multiple Inheritance. more than one base class for the devived class.
+      
+4. **Super methods**
+   - `super()` method is used to access methods of the parent class.
+   ```
+   super().__init__(type)  # From thebase class
+   ```
