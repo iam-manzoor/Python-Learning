@@ -20,6 +20,10 @@ s1 = Student("Arhan",[95,98,99])
 print(self.name)
 print(self.marks)
 
+# Name overwrite
+s1.name = "Manzoor"
+
+print(s1.name)                  # Prints the name Manzoor. Overwrite the existing value
 print(s1.cal_avg())
 print(Student.cal_avg(s1))      # Same as above
 
