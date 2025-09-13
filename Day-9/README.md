@@ -31,7 +31,7 @@
        print("Hello Person")
 
      def welcome(self):
-       self.hello()
+       self.__hello()
 
    p1 = Person()
 
