@@ -50,3 +50,19 @@
    ```
    super().__init__(type)  # From thebase class
    ```
+5. **class method**
+   - A class method is bound to the class and not instance of the class.
+   - It can access, modify class variables that are shared among all instances.
+   - `class method` is a decorator.
+   ```
+   class Car():
+     wheels = 4
+     @classmethod
+     def change_wheels(cls, num):
+       cls.wheels = num
+
+   print(Car.wheels)
+   Car.change_wheels(6)
+   print(Car.wheels)
+   ```
+       
