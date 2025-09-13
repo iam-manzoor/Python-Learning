@@ -40,4 +40,7 @@
 
 3. **Inheritance**
    - When one class derives properties & methods of another class is called inheritance.
-   - 
+     - Inheritance Types
+       - Single Inheritance.  base class -> Derived class
+       - Multi-level Inheritance. base class - > derived class -> derived class
+       - Multiple Inheritance. more than one base class for the devived class.
