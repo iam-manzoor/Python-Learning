@@ -4,3 +4,6 @@
    
 2. Define a Employee class with attributes role, department & salary. This class also have showDetails() method.
    Create an Engineer class that inherits properties from Employee & has additional attribute name & age
+
+3. Create a class called Order which store itsm & its proce.
+   - Use Dunder function __gt__() to convey that: order1 > order2 if price of order1 > proce of order2
