@@ -3,7 +3,7 @@
 1. **Strings**
    - String is data type that stores a sequence of characters.
    - We can define strings in different ways, its because to have quotes within string. Refer string4.
-   - SUpports escape sequence such as `\n` `\t` etc..
+   - Supports escape sequence such as `\n` `\t` etc..
    ```
    string1 = "I am Arhan"
    string2 = 'I am studying in 4th std'
