@@ -26,3 +26,17 @@
    - Example tuple `tup = (1,2,3,4)`
    - Slicing works as list.
    - tuple also supports only two methods `count` and `index`
+  
+- Difference between `list` and `Tuple`?
+  - **Mutability**
+    - Lists are mutable, Which means after the list is created, its elements can be modified, added or removed.
+    - Tuples are immutable, The elements cant be changed.
+  -  **Syntax**
+    - List: []
+    - Tuple ()
+  - **Performance and Memory**
+    - Tuple, is more memory-efficient because their size is fixed, Faster
+    - List, Need more memory because its elements can be changed, SLower for certain operation
+  - **Hashing and Dictionary Keys**
+    - Tuples can be used as keys with in dictionaries
+    - List can not be used as key with in dictionaries
