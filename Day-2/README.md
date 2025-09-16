@@ -17,7 +17,7 @@
      - Length of string
      - Indexing in string. The string characters in Python is indexed.
        - string object doesnt allow item assignment. Example `myCollege[4]="@"`
-       - Index helps us to access the characters cant modify
+       - Index helps us to access the characters but we cant modify the index value.
      - Slicing
        - Accessing parts of a string. Example `myCollege[starting_idx:ending_idx]` ending_idx will not be printed.
        - Negative index supported by python. Only works with slicing.
