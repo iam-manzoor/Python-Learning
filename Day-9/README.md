@@ -70,5 +70,9 @@
    - We use `@property` decorator on any method in the class to use the method as a property.
    - The phy values updated but the percentage doesnt change. Still showing the old percentage.
 
-7. **Polymorphism**
+7. **Polymorphism : Operator Overloading**
+   - When the same operator is alllowed to have different meaning according to the context. Polymorphism meaning different forms.
+   - Every class such as `int` `list` `string` have different meaning for the operators. Based on the class the operator behaviour changes.
+   - `implicit overloading` which means in python its already done. We can use the same concept in our classes.
+   - `Dunder functions` functions that startes with double underscore `__add__` and ends with double underscore. 
    
