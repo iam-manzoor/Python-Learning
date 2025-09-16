@@ -23,7 +23,7 @@ class Student():
     self.phy = phy
     self.chem = chem
     self.math = math
-    self.percentage = str((self.phy + self.chem + self.math) / 3) + "%"
+    #self.percentage = str((self.phy + self.chem + self.math) / 3) + "%"
 
   def percentage(self):
     self.percentage = str((self.phy + self.chem + self.math) / 3) + "%"
@@ -44,7 +44,7 @@ class Student():
     self.math = math
 
   @property
-  def calPercentage(self):
+  def percentage(self):
     return str((self.phy + self.chem + self.math) / 3) + "%"
 
 stu1 = Student(98, 97, 99)
