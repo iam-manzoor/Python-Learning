@@ -26,8 +26,8 @@
      - String supports multiple functions. Below are the few examples.
        - `str.endswith("er")` **er** is a substring, and function returns boolean.
        - `str.capitalize()` Capitalize the first character.
-       - `str.replace(old, new)` Replace the word old with new.
-       - `str.find(word)` Return the index of that word.
+       - `str.replace(old, new)` Replace the word old with new. All the occurances.
+       - `str.find(word)` Return the index of that word. First occurance
        - `str.count("am")` Count the occurance of the substring.
       
 
