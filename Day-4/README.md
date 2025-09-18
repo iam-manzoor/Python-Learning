@@ -19,7 +19,7 @@
    - **Dictionary Methods**
      - Dictionary also supports methods simillar to the List, tupple and string.
      - Below are the few methods supported by Dictionary.
-     - `myDict.keys()` `myDict.values()` `myDict.items()` `myDict.get("key)` `myDict.update(newDict)`
+     - `myDict.keys()` `myDict.values()` `myDict.items()` `myDict.get("key")` `myDict.update(newDict)`
     
 2. **Sets in Python**
    - Set is the collection of the unordered items.
