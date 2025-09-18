@@ -18,7 +18,7 @@
       - `pop` works on the index. `remove` works on the value. The first occurance of the element will be removed.
     - To list the methods supported by List. execute `print(dir(list))`
     - When you print method operations it will return `None`. You have to print list variable.
-    - `sort` methos also sorts the strins in the list.
+    - `sort` method also sorts the strings in the list.
 
 2. **Tuples in Python**
    - A built-in data type that lets us create immutable sequence of values.
