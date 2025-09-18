@@ -22,7 +22,7 @@
         print(el)
      ```
 3. **range function**
-   - FUnction returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
+   - Function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
    - `range` syntax 
    ```
    range(start?, stop, step?)
