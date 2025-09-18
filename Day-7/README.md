@@ -34,7 +34,7 @@
      - Once the data is read we can not read it again. The pointer moves as we read the data. So to read again we have to open the file onde more time.
 
    - **Writing to a file**
-     - `f = open("demot.txt","w")` Open the file in write mode.
+     - `f = open("demo.txt","w")` Open the file in write mode.
      - `f.write("This is a new line")` Overwrite the entire file.
 
    - **Append to a file**
