@@ -37,7 +37,7 @@ print(collection.pop())
 
 # .union Method
 
-print(collection.union(collection2))    # Combines both set values & return new. Contains values from bith set not duplicates.
+print(collection.union(collection2))    # Combines both set values & return new. Contains values from both set not duplicates.
 
 # .intersection Method
 
