@@ -13,8 +13,8 @@
    print(string5)
    ```
    - **Basic Operations**
-     - concatenation
-     - Length of string
+     - concatenation  Adding two or more strings
+     - Length of string 
      - Indexing in string. The string characters in Python is indexed.
        - string object doesnt allow item assignment. Example `myCollege[4]="@"`
        - Index helps us to access the characters but we cant modify the index value.
