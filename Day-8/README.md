@@ -33,7 +33,7 @@
    - We have default constructor and parameterized constructors.
   
 4. **Class & Instance Attributes**
-   - class attributes common to all the classes.
+   - class attributes is common to all the methods wihtin class.
    - instance attribute unique to each object. And we refer it with `self.name`
    - object attribute takes precedence over the class attribute if they have the same var name.
 
