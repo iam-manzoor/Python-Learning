@@ -9,8 +9,13 @@ collection.add(2)
 collection.add("Arhan")
 collection.add((1,2,3))
 
+print(collection)                 # Prints {1,2,"Arhan",(1,2,3)}
 
-print(collection)                 # Prints {1,2}
+# Accessing the set() value
+set1 = {1,2,"Arhan",(1,2,3)}
+my_list = list(set1)
+print(my_list[0])
+print(my_list[-1])
 
 # .remove Method
 collection.remove(2)
