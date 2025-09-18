@@ -25,7 +25,7 @@
    - `tup = (1,)` Defining a single value tuple. If we dont add comma it will be considered as string.
    - Example tuple `tup = (1,2,3,4)`
    - Slicing works as list.
-   - tuple also supports only two methods `count` and `index`
+   - tuple supports only two methods `count` and `index`
   
 - Difference between `list` and `Tuple`?
   - **Mutability**
@@ -36,7 +36,7 @@
     - Tuple ()
   - **Performance and Memory**
     - Tuple, is more memory-efficient because their size is fixed, Faster
-    - List, Need more memory because its elements can be changed, SLower for certain operation
+    - List, Need more memory because its elements can be changed, Slower for certain operation
   - **Hashing and Dictionary Keys**
     - Tuples can be used as keys with in dictionaries
     - List can not be used as key with in dictionaries
