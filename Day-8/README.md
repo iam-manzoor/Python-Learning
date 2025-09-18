@@ -5,7 +5,7 @@
    - What is Procedural Programming?
      - organize code into a sequence of instructions are called procedural programming.
    - What is function in Programming?
-     -  Avoids redundancy and reusability.
+     -  A function is a block of code that avoids redundancy and promote reusability.
 
 2. **Class & Object in Python**
    - class is a blueprint for creating Object. Blueprint tells how the object should be created. Example addmission of a student. To get the student admitted we have to collect details such as his name, age, address, contact details, etc..
